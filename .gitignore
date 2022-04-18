@@ -1,0 +1,13 @@
+Makefile
+dpp.pc
+cmake_install.cmake
+compile_commands.json
+CMakeCache.txt
+.cache
+CPackConfig.cmake
+CPackSourceConfig.cmake
+CMakeFiles
+togetherbot
+
+
+
